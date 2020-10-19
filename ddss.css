@@ -1,0 +1,36 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #3d3e3e; SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-SHADOW-COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: gray; SCROLLBAR-ARROW-COLOR: #cccccc; SCROLLBAR-TRACK-COLOR: #3d3e3e; SCROLLBAR-DARKSHADOW-COLOR: #595959
+}
+A:link {
+	FONT-WEIGHT: normal; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-WEIGHT: normal; COLOR: #cccccc; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: normal; COLOR: #999999; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: normal; COLOR: #ff6600; TEXT-DECORATION: none
+}
+.date {
+	BORDER-RIGHT: #000000 1px outset; BORDER-TOP: #666666 1px outset; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; PADDING-BOTTOM: 5px; BORDER-LEFT: #666666 1px outset; COLOR: #ff6600; PADDING-TOP: 2px; BORDER-BOTTOM: #000000 1px outset; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #333333; FONT-VARIANT: normal
+}
+.mapName {
+	BORDER-RIGHT: #000 1px outset; BORDER-TOP: #666 1px outset; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: x-small; PADDING-BOTTOM: 5px; BORDER-LEFT: #666 1px outset; COLOR: #ff6600; PADDING-TOP: 2px; BORDER-BOTTOM: #000 1px outset; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #333333; FONT-VARIANT: normal
+}
+.news {
+	BORDER-RIGHT: #000000 1px outset; PADDING-RIGHT: 5px; BORDER-TOP: #666666 1px outset; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #666666 1px outset; COLOR: #cccccc; LINE-HEIGHT: 13px; PADDING-TOP: 5px; BORDER-BOTTOM: #000000 1px outset; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.maps {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; PADDING-BOTTOM: 5px; COLOR: #cccccc; PADDING-TOP: 5px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.newsHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; COLOR: white; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.mapsHead {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; COLOR: #f60; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.links {
+	FONT-SIZE: xx-small; COLOR: white; LINE-HEIGHT: 120%; FONT-FAMILY: Verdana, Arial, Helvetica
+}
